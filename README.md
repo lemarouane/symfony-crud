@@ -2,7 +2,7 @@
 CRUD d'une entité au choix. **Entité choisie : Livre**
 CRUD fait avec le Framework **SYMFONY**
 Documentation officielle du Framework disponible sur : *https://symfony.com/docs*
-**Version PHP : 8**
+**Version PHP : 8** 
 **Version SYMFONY : 6**
 
 Pour lancer ce code sur votre machine, vous devez :
